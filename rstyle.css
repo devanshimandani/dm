@@ -1,0 +1,37 @@
+
+body{
+    background-color: #333;
+   
+}
+
+input[type=text], input[type=email], input[type=number], input[type=select], input[type=date],input[type=select],input[type=password], input[type=tel]
+{
+    width: 45%;
+    padding: 12px;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 4px;
+    resize: vertical;
+}
+h1{
+    color: #fff;
+    font-display: center;
+}
+label{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    color:#fff;
+    font: bolder;
+}
+input[type=submit] {
+    background-color:whitesmoke ;
+    color: black;
+    padding: 12px 20px;
+    
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+
+
+

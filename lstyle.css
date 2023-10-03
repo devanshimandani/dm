@@ -1,0 +1,48 @@
+.form-signin {
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+body{
+    background-color: #333; 
+   background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.checkbox {
+    font-weight: normal;
+}
+
+.form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    
+
+   
+}
+
+input[type="text"] {
+    margin-bottom: -1px;
+    
+}
+ 
+input[type="password"] {
+    margin-bottom: 20px;
+   
+}
+input[type="submit"] {
+    background-color:whitesmoke ;
+    color: black;
+    padding: 12px 20px;
+    
+    border-radius: 4px;
+    cursor: pointer;
+    
+}

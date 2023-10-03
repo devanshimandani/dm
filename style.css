@@ -1,0 +1,73 @@
+
+    
+
+nav {
+    background-color: #333;
+    height: 50px;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav  a {
+    display:block;
+    color: #fff;
+    font-size: 16px;
+    padding: 15px;
+  }
+  
+
+  
+  .showcase-content {
+    text-align: center;
+    color: #333;
+    font-size: 25px;
+  }
+  .showcase-content h1 {
+    margin-bottom: 42px;
+  }
+  
+  .activities-cards {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .activities-cards img {
+    border-radius: 12px;
+  }
+ 
+.footer {
+    padding: 40px 0;
+    background-color: #333;
+}
+ 
+.footer ul {
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+}
+.footer ul a {
+    color:#fff;
+}
+.footer ul li{
+    color: #fff;
+
+}  
+ 
+  
+
+  
+  
+  
+  
+  
+ 
+  
+  
